@@ -1,12 +1,8 @@
 {
   "language": "en",
-  "words": [
-    "HackYourFutureBelgium",
-    "HackYourFuture",
-    "Nepo",
-    "Canva",
-    "Photoshop"
-  ],
+
+  "words": ["HackYourFutureBelgium", "HackYourFuture", "Nepo", "Arsan"],
+
   "ignorePaths": [
     "node_modules/**",
     "package.json",
